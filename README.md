@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mdulghier/jitsu-env.png?branch=master)](https://travis-ci.org/mdulghier/jitsu-env)
+
 # Nodejitsu Environment Manager
 
 Prepares your package.json for deployment in different Nodejitsu applications.
