@@ -6,7 +6,8 @@
   "main": "./bin/jitsu-env",
   "bin": "./bin/jitsu-env",
   "scripts": {
-    "test": "mocha --reporter mocha-lcov-reporter | ./node_modules/coveralls/bin/coveralls.js"
+    "test": "mocha --reporter spec",
+    "coveralls": "mocha --reporter mocha-lcov-reporter | ./node_modules/coveralls/bin/coveralls.js"
   },
   "keywords": [
     "nodejitsu",
