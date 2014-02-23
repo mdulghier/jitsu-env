@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "predeploy": "gulp build"
+  },
+  "author": "Markus Dulghier",
+  "subdomain": "myapp",
+  "domains": [
+    "domain1.myapp.com",
+    "domain2.myapp.com"
+  ]
+}

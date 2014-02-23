@@ -1,0 +1,10 @@
+{
+	"newProperty": "value",
+	"scripts": {
+		"predeploy": "gulp build:staging"
+	},
+	"subdomain": "staging-myapp",
+	"domains": [
+		"staging-domain1.myapp.com"
+	]
+}
