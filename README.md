@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/mdulghier/jitsu-env.png?branch=master)](https://travis-ci.org/mdulghier/jitsu-env)
+[![Coverage Status](https://coveralls.io/repos/mdulghier/jitsu-env/badge.png)](https://coveralls.io/r/mdulghier/jitsu-env)
 
 # Nodejitsu Environment Manager
 
