@@ -1,9 +1,10 @@
 {
   "name": "jitsu-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prepares package.json for deployment in different Nodejitsu environments (staging, production)",
-  "preferGlobal": true,
+  "preferGlobal": "true",
   "main": "./bin/jitsu-env",
+  "bin": "./bin/jitsu-env",
   "scripts": {
     "test": "mocha --reporter spec"
   },
