@@ -30,6 +30,7 @@
     "fs-extra": "~0.8.1"
   },
   "devDependencies": {
-    "chai": "~1.9.0"
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1"
   }
 }
