@@ -1,6 +1,6 @@
 {
   "name": "jitsu-env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Prepares package.json for deployment in different Nodejitsu environments (staging, production)",
   "preferGlobal": "true",
   "main": "./bin/jitsu-env",
